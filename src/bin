@@ -1,0 +1,4 @@
+ <input className="header__input" placeholder="Search" />
+        <Button className="header__btn">
+          <Search className="header__searchIcon" />
+        </Button>

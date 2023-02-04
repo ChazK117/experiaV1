@@ -1,0 +1,96 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    max-height: 90vh;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .videothumb__thumbnail {
+    width: inherit;
+    height: 137px;
+    margin-bottom: 10px;
+  }
+  .videothumb__details {
+    display: flex;
+  }
+  .videothumb {
+    margin: 20px;
+    margin-right: 0;
+    width: 230px;
+    height: 236px;
+    cursor: pointer;
+  }
+  .videothumb__title {
+    font-size: 0.9rem;
+    max-height: 42px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: wrap;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+  }
+  .videothumb__channel {
+    margin-left: 10px;
+  }
+  .videothumb__texts {
+    margin-top: 5px;
+  }
+  .videothumb__text {
+    font-size: 14px;
+    color: #aaaaaa !important;
+  }
+
+
+
+  .listItem {
+    width: 225px;
+    height: 120px;
+    background-color: var(--main-color);
+    margin-right: 5px;
+    overflow: hidden;
+    cursor: pointer;
+    color: white;
+  }
+
+  .itemInfo {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+  .icons {
+    display: flex;
+    margin-bottom: 10px;
+  }
+
+  .icon {
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+
+  .itemInfoTop {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: gray;
+  }
+
+  .limit {
+    border: 1px solid gray;
+    padding: 1px 3px;
+    margin: 0 10px;
+  }
+
+  .desc {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .subBtn {
+    height: 40px !important;
+  }
