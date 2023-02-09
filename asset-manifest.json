@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/experiaV1/static/css/main.437f2867.chunk.css",
+    "main.js": "/experiaV1/static/js/main.a07389e7.chunk.js",
+    "main.js.map": "/experiaV1/static/js/main.a07389e7.chunk.js.map",
+    "runtime-main.js": "/experiaV1/static/js/runtime-main.57c0a3c1.js",
+    "runtime-main.js.map": "/experiaV1/static/js/runtime-main.57c0a3c1.js.map",
+    "static/js/2.fb7bc9bb.chunk.js": "/experiaV1/static/js/2.fb7bc9bb.chunk.js",
+    "static/js/2.fb7bc9bb.chunk.js.map": "/experiaV1/static/js/2.fb7bc9bb.chunk.js.map",
+    "index.html": "/experiaV1/index.html",
+    "static/css/main.437f2867.chunk.css.map": "/experiaV1/static/css/main.437f2867.chunk.css.map",
+    "static/js/2.fb7bc9bb.chunk.js.LICENSE.txt": "/experiaV1/static/js/2.fb7bc9bb.chunk.js.LICENSE.txt",
+    "static/media/Goldfish.f61aaff6.gif": "/experiaV1/static/media/Goldfish.f61aaff6.gif",
+    "static/media/logoBlue.747a4e26.png": "/experiaV1/static/media/logoBlue.747a4e26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c0a3c1.js",
+    "static/js/2.fb7bc9bb.chunk.js",
+    "static/css/main.437f2867.chunk.css",
+    "static/js/main.a07389e7.chunk.js"
+  ]
+}
